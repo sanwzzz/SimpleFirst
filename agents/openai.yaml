@@ -1,0 +1,4 @@
+interface:
+  display_name: "SimpleFirst"
+  short_description: "Simple, readable, maintainable software changes"
+  default_prompt: "Use $simple-first to implement this coding task with simple design, complete documentation, and risk-based verification."
